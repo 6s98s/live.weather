@@ -12,6 +12,6 @@ const useWeather = () => {
         fetchWeather();
     }, []);
     return weather;
-}
+};
 
 export default useWeather;
