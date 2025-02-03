@@ -1,9 +1,0 @@
-const App = () => {
-  return (
-    <div>
-      <>앱 시작</>
-    </div>
-  )
-}
-
-export default App
